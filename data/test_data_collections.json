@@ -1,6 +1,7 @@
 [
     {
         "name": "Apple MacBook Pro 16",
+        "type": "laptop",
         "data": {
             "year": 2019,
             "price": 1849.99,
@@ -10,6 +11,7 @@
     },
     {
         "name": "Dell XPS 13",
+        "type": "laptop",
         "data": {
             "year": 2020,
             "price": 999.99,
@@ -19,11 +21,157 @@
     },
     {
         "name": "Lenovo ThinkPad X1 Carbon",
+        "type": "laptop",
         "data": {
             "year": 2021,
             "price": 1299.99,
             "CPU model": "Intel Core i5",
             "Hard disk size": "256 GB"
         }
+    },
+    {
+        "name": "HP Spectre x360",
+        "type": "laptop",
+        "data": {
+            "year": 2022,
+            "price": 1399.99,
+            "CPU model": "Intel Core i7",
+            "Hard disk size": "512 GB"
+        }
+    },
+    {
+        "name": "Asus ROG Zephyrus G14",
+        "type": "laptop",
+        "data": {
+            "year": 2021,
+            "price": 1499.99,
+            "CPU model": "AMD Ryzen 9",
+            "Hard disk size": "1 TB"
+        }
+    },
+    {
+        "name": "Microsoft Surface Laptop 4",
+        "type": "laptop",
+        "data": {
+            "year": 2021,
+            "price": 999.99,
+            "CPU model": "Intel Core i5",
+            "Hard disk size": "256 GB"
+        }
+    },
+    {
+        "name": "Acer Swift 3",
+        "type": "laptop",
+        "data": {
+            "year": 2020,
+            "price": 699.99,
+            "CPU model": "Intel Core i5",
+            "Hard disk size": "512 GB"
+        }
+    },
+    {
+        "name": "Razer Blade 15",
+        "type": "laptop",
+        "data": {
+            "year": 2021,
+            "price": 1799.99,
+            "CPU model": "Intel Core i7",
+            "Hard disk size": "1 TB"
+        }
+    },
+    {
+        "name": "LG Gram 17",
+        "type": "laptop",
+        "data": {
+            "year": 2020,
+            "price": 1699.99,
+            "CPU model": "Intel Core i7",
+            "Hard disk size": "1 TB"
+        }
+    },
+    {
+        "name": "Razer Blade 15",
+        "type": "laptop",
+        "data": {
+            "year": 2021,
+            "price": 1799.99,
+            "CPU model": "Intel Core i7",
+            "Hard disk size": "1 TB"
+        }
+    },
+    {
+        "name":"Think Big",
+        "type":"book",
+        "data":{
+            "year": 2023,
+            "price": 120.99,
+            "Published": "Yes",
+            "Year of Publication": 2023
+        }
+
+    },
+    {
+        "name":"The Great Gatsby",
+        "type":"book",
+        "data":{
+            "year": 1925,
+            "price": 10.99,
+            "Published": "Yes",
+            "Year of Publication": 1925
+        }
+
+    },
+    {
+        "name":"To Kill a Mockingbird",
+        "type":"book",
+        "data":{
+            "year": 1960,
+            "price": 12.99,
+            "Published": "Yes",
+            "Year of Publication": 1960
+        }
+
+    },
+    {
+        "name":"1984",
+        "type":"book",
+        "data":{
+            "year": 1949,
+            "price": 9.99,
+            "Published": "Yes",
+            "Year of Publication": 1949
+        }
+
+    },  
+    {
+        "name":"Samsung Galaxy S21",
+        "type":"smartphone",
+        "data":{
+            "year": 2021,
+            "price": 799.99,
+            "Published": "Yes",
+            "Year of Publication": 2021
+        }
+    },
+    {
+        "name":"iPhone 13",
+        "type":"smartphone",
+        "data":{
+            "year": 2021,
+            "price": 999.99,
+            "Published": "Yes",
+            "Year of Publication": 2021
+        }
+    },
+    {
+        "name":"Google Pixel 6",
+        "type":"smartphone",
+        "data":{
+            "year": 2021,
+            "price": 699.99,
+            "Published": "Yes",
+            "Year of Publication": 2021
+        }
     }
+    
 ]
